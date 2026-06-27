@@ -18,31 +18,10 @@ Quark is a platform where everything — timers, profilers, parsers, writers, en
 | [**docs**](https://github.com/quarkloop/docs) | Unified documentation portal — Fuma Docs (Next.js) aggregating markdown from product repos |
 | [**guidelines**](https://github.com/quarkloop/guidelines) | Specifications, templates, and tooling for consistent configuration across repos |
 
-## Quick start
+---
 
-```bash
-# Clone all repos + install pre-commit hooks in one command
-curl -fsSL https://raw.githubusercontent.com/quarkloop/guidelines/main/tool/setup_standalone.py | python3 - --all --target ~/quarkloop
-```
+<div align="center">
 
-Prerequisites: `git` and either `uv` or `pip` (the script auto-installs `pre-commit`).
+**[🌐 quarkloop.com](https://quarkloop.com)** · **[📚 Documentation](https://quarkloop.com/docs)** · **[📋 Guidelines](https://github.com/quarkloop/guidelines)**
 
-## Documentation
-
-Visit **[quarkloop.com](https://quarkloop.com)** for the full documentation portal.
-
-## Contributing
-
-We welcome contributions! Each repository has its own `CONTRIBUTING.md` and `AGENTS.md` (for AI agents). See the [guidelines repo](https://github.com/quarkloop/guidelines) for org-wide conventions, templates, and the `repo.py` tooling CLI.
-
-By participating you agree to abide by the Contributor Covenant Code of Conduct.
-
-## License
-
-All repositories are licensed under Apache 2.0 (except `quark-js` which is MIT). See each repo's `LICENSE` file for details.
-
-## Links
-
-- **Website**: [quarkloop.com](https://quarkloop.com)
-- **Documentation**: [docs.quarkloop.com](https://quarkloop.com)
-- **Guidelines**: [github.com/quarkloop/guidelines](https://github.com/quarkloop/guidelines)
+</div>
