@@ -2,6 +2,8 @@
 
 A universal runtime for programmable nodes — declare systems in TypeScript, execute them across a three-service architecture, and manage everything through autonomous AI workspaces.
 
+> In Quantum Chromodynamics (QCD), a ***quark loop*** is the quantum self-interaction that gives a quark its identity — its mass, its charge, its observable properties. A quark without its loop is an abstraction; the loop is the quark.
+
 ## What is Quark?
 
 Quark is a platform where everything — timers, profilers, parsers, writers, endpoints, policies — is a **Node** identified by a Docker-style URI. Users declare nodes and their communication patterns in `.quark.ts` files. The control plane persists these declarations and forwards them to the data plane, where GraalJS evaluates TypeScript node logic natively over NATS.
